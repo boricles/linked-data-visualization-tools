@@ -199,12 +199,12 @@
 		<repository>
 			<id>map4rdf_maven</id>
 			<name>map4rdf maven</name>
-			<url>http://138.100.15.185:8081/nexus/content/repositories/map4rdf_maven/</url>
+			<url>http://oeg-dev.dia.fi.upm.es:8081/nexus/content/repositories/map4rdf_maven/</url>
 		</repository>
 		<repository>
 			<id>oeg-maven</id>
 			<name>OEG Maven Repository</name>
-			<url>http://oegdev.dia.fi.upm.es/maven/public/</url>
+			<url>http://oeg-dev.dia.fi.upm.es/maven/public/</url>
 		</repository>
 		<repository>
 			<id>tmate</id>
