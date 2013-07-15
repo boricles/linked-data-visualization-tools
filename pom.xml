@@ -205,7 +205,7 @@
 		<repository>
 			<id>oeg-maven</id>
 			<name>OEG Maven Repository</name>
-			<url>http://oegdev.dia.fi.upm.es/maven/public/</url>
+			<url>http://oeg-dev.dia.fi.upm.es/maven/public/</url>
 		</repository>
 		<repository>
 			<id>tmate</id>
